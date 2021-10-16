@@ -13,4 +13,4 @@ you can run following commands
  
  -->git fetch 
  -->git branch -r
- -->git checkout --track origin/assignment
+ -->git checkout --track origin/assignments
