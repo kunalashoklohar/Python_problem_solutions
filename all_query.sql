@@ -1,0 +1,17 @@
+-- 1: Prepare a list of offices sorted by country,state,city
+-- 2. How many employees are there in the company.
+-- 3. What is the total of payments received.
+-- 4. List the product lines that contain cars
+-- 5. Report total payments for october 28,2004
+-- 6. Report those payments greater than $100,000
+-- 7. List the products in each product line..
+-- 8. How many products in each product line.
+-- 9. what is the minimum payment received ?
+-- 10. list all the payments greater than twice the average amount ?
+-- 11. what is the average percentage markup of the MSRP on buyPrice ?
+-- 12. How many distinct products does classicmodels sell >
+-- 13. Report the name and city of customers who don't have sales representatives ?
+-- 14. what are the names of executives with VP or Manager in their title ? Use
+--     the CONCAT function to combine the employees firstname and lastname
+--     into a single field for reporting ?
+-- 15. which orders have a value greater than $5,000
