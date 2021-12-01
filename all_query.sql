@@ -9,6 +9,7 @@
 -- 9. what is the minimum payment received ?
 -- 10. list all the payments greater than twice the average amount ?
 -- 11. what is the average percentage markup of the MSRP on buyPrice ?
+--                                   explanation fro markup https://www.indeed.com/career-advice/career-development/how-to-calculate-markup
 -- 12. How many distinct products does classicmodels sell >
 -- 13. Report the name and city of customers who don't have sales representatives ?
 -- 14. what are the names of executives with VP or Manager in their title ? Use
