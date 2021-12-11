@@ -1,6 +1,6 @@
 x1 = int(input("Enter the First number in range\n"))
 x2 = int(input("Enter the Last number in range\n"))
-for elements in list(range(x1, (x2)+1)):
+for elements in range(x1, (x2)+1):
     list1 = []
     list2 = []
     if elements % 2 == 0:
